@@ -3,8 +3,7 @@
 ---
 
 A DOC EXAMPLE FOR TESTING CHANGES IN GIT
-
-test of lower case 
+Bla bla bla
 
 ---
 
